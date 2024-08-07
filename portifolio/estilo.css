@@ -111,3 +111,57 @@ margin-top:50px;
 margin-bottom:50px ;
 
 }
+
+#cabecalhoclientelogo{
+
+text-align:center;
+margin-top:50px;
+margin-bottom:50px;
+
+
+}
+
+#red{
+
+
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 24px;
+    text-align: center;
+    color:red;
+}
+
+
+#black{
+
+    font-family: Poppins;
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 54px;
+    text-align: center;
+    color: #070F18;
+
+}
+
+.gray{
+
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 32px;
+    text-align: center;
+    color:gray;
+
+
+
+}
+
+#preto{
+
+    font-family: Poppins;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 30px;
+    color: #000000;
+}
